@@ -1,10 +1,9 @@
 {
-    "login": [
+    "login":
       {
         "id": 1,
         "email": "random@gmail.com",
         "password":"mynameiskhanr"
       }
-    ]
 }
   
